@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/futurice/metalsmith-prismic-server.git"
+    "url": "git+ssh://github.com/dronedeploy/metalsmith-prismic-server-dd.git"
   },
   "author": "Futurice Ltd",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/futurice/metalsmith-prismic-server/issues"
+    "url": "https://github.com/dronedeploy/metalsmith-prismic-server-dd/issues"
   },
-  "homepage": "https://github.com/futurice/metalsmith-prismic-server#readme",
+  "homepage": "https://github.com/dronedeploy/metalsmith-prismic-server-dd#readme",
   "dependencies": {
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
