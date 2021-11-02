@@ -25,7 +25,7 @@
     "metalsmith-prismic": "git://github.com/tjsumot/metalsmith-prismic.git",
     "metalsmith-watch": "^1.0.1",
     "open": "0.0.5",
-    "prismic.io": "git+ssh://github.com/dronedeploy/prismic-javascript-kit-dd.git",
+    "prismic.io": "git+https://github.com/dronedeploy/prismic-javascript-kit-dd.git",
     "promise": "^7.1.1",
     "request": "^2.69.0",
     "rimraf": "^2.5.2"
