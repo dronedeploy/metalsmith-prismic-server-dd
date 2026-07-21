@@ -24,7 +24,7 @@
     "metalsmith-express": "^0.1.0",
     "metalsmith-prismic": "git+https://github.com/tjsumot/metalsmith-prismic.git",
     "metalsmith-watch": "^1.0.1",
-    "open": "0.0.5",
+    "open": "6.0.0",
     "prismic.io": "git+https://github.com/dronedeploy/prismic-javascript-kit-dd.git",
     "promise": "^7.1.1",
     "request": "^2.69.0",
