@@ -53,4 +53,4 @@ Runs the build once only, using the given modes (which should be an array of str
 
 ## License and Credits
 
-Metalsmith-prismic-server is licensed with [MIT License](LICENSE.md). It was developed by Futurice in co-operation with our customers [Finavia](http://www.finavia.fi/) and [Clear Funding](http://clearfunding.com/).
+Metalsmith-prismic-server is proprietary and confidential software owned by DroneDeploy, Inc. See [LICENSE.md](LICENSE.md) for details.

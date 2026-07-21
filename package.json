@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+ssh://github.com/dronedeploy/metalsmith-prismic-server-dd.git"
   },
-  "author": "Futurice Ltd",
-  "license": "MIT",
+  "author": "DroneDeploy, Inc.",
+  "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/dronedeploy/metalsmith-prismic-server-dd/issues"
   },
